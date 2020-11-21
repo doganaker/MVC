@@ -1,0 +1,14 @@
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\BilgeTicaret.UI.exe.config
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\BilgeTicaret.UI.exe
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\BilgeTicaret.UI.pdb
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\BilgeTicaret.Bussiness.dll
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\BilgeTicaret.Data.dll
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\BilgeTicaret.Bussiness.pdb
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\BilgeTicaret.Data.pdb
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\obj\Debug\BilgeTicaret.UI.csprojAssemblyReference.cache
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\obj\Debug\BilgeTicaret.UI.csproj.CoreCompileInputs.cache
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\obj\Debug\BilgeTicaret.UI.csproj.CopyComplete
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\obj\Debug\BilgeTicaret.UI.exe
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.UI\obj\Debug\BilgeTicaret.UI.pdb

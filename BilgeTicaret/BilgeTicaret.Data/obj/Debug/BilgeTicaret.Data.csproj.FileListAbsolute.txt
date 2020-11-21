@@ -1,0 +1,6 @@
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.Data\bin\Debug\BilgeTicaret.Data.dll
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.Data\bin\Debug\BilgeTicaret.Data.pdb
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.Data\obj\Debug\BilgeTicaret.Data.csprojAssemblyReference.cache
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.Data\obj\Debug\BilgeTicaret.Data.csproj.CoreCompileInputs.cache
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.Data\obj\Debug\BilgeTicaret.Data.dll
+C:\Users\dogan\OneDrive\Masaüstü\BilgeAdam Boost (Doğan)\BilgeTicaret\BilgeTicaret.Data\obj\Debug\BilgeTicaret.Data.pdb

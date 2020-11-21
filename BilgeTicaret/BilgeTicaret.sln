@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeTicaret.UI", "BilgeTicaret.UI\BilgeTicaret.UI.csproj", "{AD95FB61-B344-4ECF-AF27-782EF0F08E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeTicaret.Data", "BilgeTicaret.Data\BilgeTicaret.Data.csproj", "{E31C010E-5621-473D-8F60-086F5403185C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeTicaret.Bussiness", "BilgeTicaret.Bussiness\BilgeTicaret.Bussiness.csproj", "{A2197E79-A85E-42CA-B638-6A21A5C49042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD95FB61-B344-4ECF-AF27-782EF0F08E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD95FB61-B344-4ECF-AF27-782EF0F08E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD95FB61-B344-4ECF-AF27-782EF0F08E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD95FB61-B344-4ECF-AF27-782EF0F08E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31C010E-5621-473D-8F60-086F5403185C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31C010E-5621-473D-8F60-086F5403185C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31C010E-5621-473D-8F60-086F5403185C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31C010E-5621-473D-8F60-086F5403185C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2197E79-A85E-42CA-B638-6A21A5C49042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2197E79-A85E-42CA-B638-6A21A5C49042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2197E79-A85E-42CA-B638-6A21A5C49042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2197E79-A85E-42CA-B638-6A21A5C49042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {551DC693-BA0C-4CBC-B490-3216AD9DD314}
+	EndGlobalSection
+EndGlobal
